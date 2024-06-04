@@ -144,11 +144,11 @@ export const skills = [
 export const experiences = [
     {
         id: 0,
-        img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRAlhlTBkPjZ4A1PDkx_7pXjwYTyVa5gQh3w83QuBtS7pairS0XFFc8QrcupNdQ93WgpceNeeuZJnqSHdFtapg4MEwi5A=s2560",
+        img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihbgT2-EiuCPtNs7ZqrgDpu7dHtYZeUp2IrfrjYh69HH99Jl254dAj5GLJdeFZLQ4BZl1lRdPOoZggjs1BRsw7nDw9S79svcbwU=s2560",
         role: "Laboratorium Assistent",
         company: "Gunadarma University Informatics Engineering Laboratory",
         date: "Sept 2022 – Sept 2023",
-        desc: "Internship on SSK, problem solving, monitoring and maintain computer systems and networks.",
+        desc: "Assistent of Laboratorium Computer",
         skills: [
             "Python Beginer",
             "Technical Capabilities",
@@ -161,7 +161,7 @@ export const experiences = [
     },
     {
         id: 1,
-        img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYT5ZktoXmN03qoN4ukVs9KHWMCAfh4ip0iDo_3XAI9kfDAV3xstkG1neYRnVAsHA7CtY_t5LZ3tkar7h-a0E2Drk0fD=s2560",
+        img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihaJlxiBPSJaGDQ20Y4uF-oiMrLmAcufSwPHsyv63yqFjNEueeg9XcEYUWrvCOtx9V8cPMMXcg4dIj7hfDokuICmENL0jVH-4Q=s2560",
         role: "IT Helpdesk Operation Intern",
         company: "Schneider Electric Indonesia",
         date: "Jan 2020 – Maret 2020",
@@ -176,7 +176,7 @@ export const experiences = [
     },
     {
         id: 2,
-        img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSZrY38N1vuT5tMi_AmKjt_uqS14HervNedZdIgc8S8KVbM5IOgiWPOPhgQeZuEujNI39sWAGUaSn7MW8mG6CdOSFrvMQ=s2560",
+        img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihZbbkLv8aJFP9w7gGuctLed2_CEHJX61TEsXp0MfAdBhXddcb8i3BLYEapA0xFekhc9Tar6OmLARR8VkiL2aRwknXCEyspsh8w=s2560",
         role: "IT Helpdesk Operation Intern",
         company: "Super Steel Karawang",
         date: "Jun 2019 – Des 2019",
@@ -220,17 +220,17 @@ export const projects = [
         description:
             "Created a comprehensive CRUD (Create, Read, Update, Delete) Data Mahasiswa application, offering users the ability to seamlessly manage and manipulate student data. The system supports functionalities such as adding new student records, retrieving existing information, updating details, and deleting records as needed. Crafted a responsive user interface using React JS, guaranteeing a consistent and user-friendly experience across various devices. Embraced agile methodologies to enhance team collaboration and efficiency throughout the development process.",
         image:
-            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRKS0tPTogWG04UebL0G6SxYOxqavCBNkKau6rqpujS_TPnGfWwHXC_sRftrTD7VPBxM-awB150i_erOdNieKww2n9N=s1600",
+            "https://lh3.googleusercontent.com/drive-viewer/AKGpihZw0s7l0uNroORyzNZ3IpOhio91I_qqSAI7eGT-srECI60xcwsCpShW5cQNL54K8jKkZoBnhL1Z-CzpetsaNIGIQAOBIEywkA=s1600-rw-v1",
         tags: ["React Js", "PHP", "Node Js", "Tailwind", "MySQL"],
         category: "web app",
-        github: "https://github.com/rishavchanda/Podstream",
-        webapp: "https://podstream.netlify.app/",
+        github: "https://github.com/naufalnak",
+        webapp: "/",
         member: [
             {
                 name: "Naufal Andresya K.",
-                img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRNXtH6Do0d4FuHxg-Ha0oeWo-S_vLpqIBrMzWzUzNSY2oWXDx1bDqPRcFTvdVy0VyiiZ02_HY7BsMNLq2Q7U7Yb9pWiw=s1600",
-                linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-                github: "https://github.com/rishavchanda/",
+                img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfsIEDQ0sprnYgouMgN9isZm1MiqYiYVphk731i68YP2tsv4UK13dvGEOAxmCMa6xhmsVGdcFCxWd_SP-KkmAv8YHxFdOcaJQ=s1600-rw-v1",
+                linkedin: "/",
+                github: "https://github.com/naufalnak",
             },
         ],
     },
@@ -241,7 +241,7 @@ export const projects = [
         description:
             "Developed a feature-rich CRUD (Create, Read, Update, Delete) Contact List application, empowering users to effortlessly organize and handle their contact information. The system enables users to add new contacts, retrieve existing details, update information, and remove contacts as required. This application streamlines the management of contacts, providing a user-friendly interface for efficient interaction with the contact list.",
         image:
-            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSDJwNz0Ef7bTVyPlRmIdZQrr6kXlbg8w3XOkUUlYBHfRctTp5QXcbq4tuUogK8GwSN0mij94l5hntdIlH1ubOljV0rJw=s1600",
+            "https://lh3.googleusercontent.com/drive-viewer/AKGpihaViS_98lDAaQDWfF54cfnlpDYFzfTqKo0yVzgiMQVAgjjRmwpmlX8qBaIclx-jFWfMH4iXcH8RTqFdmLU5RIDzBjZQ-UhLnMo=s1600-rw-v1",
         tags: [
             "React Js",
             "MongoDb",
@@ -256,9 +256,9 @@ export const projects = [
         member: [
             {
                 name: "Naufal Andresya K.",
-                img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRNXtH6Do0d4FuHxg-Ha0oeWo-S_vLpqIBrMzWzUzNSY2oWXDx1bDqPRcFTvdVy0VyiiZ02_HY7BsMNLq2Q7U7Yb9pWiw=s1600",
-                linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-                github: "https://github.com/rishavchanda/",
+                img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfsIEDQ0sprnYgouMgN9isZm1MiqYiYVphk731i68YP2tsv4UK13dvGEOAxmCMa6xhmsVGdcFCxWd_SP-KkmAv8YHxFdOcaJQ=s1600-rw-v1",
+                linkedin: "/",
+                github: "https://github.com/naufalnak",
             },
         ],
     },
@@ -269,7 +269,7 @@ export const projects = [
         description:
             "Developed a robust CRUD (Create, Read, Update, Delete) To-Do List Bookshelf application, providing users with a seamless experience in organizing and handling their tasks. The system facilitates the addition of new to-do items, retrieval of existing task details, updating task information, and removing tasks as necessary. This application enhances productivity by streamlining the management of to-do lists, ensuring users can efficiently track, modify, and delete tasks as they progress.",
         image:
-            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTvzUN_uv-KVqpp842CfZc1rTOwl9viAAQrMGqgP3keDl4QK54kSCOtbL2Yq0JFyOi5Tx5IhhuWAghPoUtmmurxmffK=s1600",
+            "https://lh3.googleusercontent.com/drive-viewer/AKGpihZgfW6wyyaz-FaTwYoSmsyOhJuAYkKttnLAhiisEG8x1-dB3GvXI2-D9-A31Wvsqq_ckEYDeWSGK4EqDWWEBmdvMoHjLtbZQA=s1600-rw-v1",
         tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
         category: "web app",
         github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
@@ -277,9 +277,93 @@ export const projects = [
         member: [
             {
                 name: "Naufal Andresya K.",
-                img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRNXtH6Do0d4FuHxg-Ha0oeWo-S_vLpqIBrMzWzUzNSY2oWXDx1bDqPRcFTvdVy0VyiiZ02_HY7BsMNLq2Q7U7Yb9pWiw=s1600",
+                img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfsIEDQ0sprnYgouMgN9isZm1MiqYiYVphk731i68YP2tsv4UK13dvGEOAxmCMa6xhmsVGdcFCxWd_SP-KkmAv8YHxFdOcaJQ=s1600-rw-v1",
+                linkedin: "/",
+                github: "https://github.com/naufalnak",
+            },
+        ],
+    },
+    {
+        id: 3,
+        title: "TradMark",
+        date: "19 Feb - 4 Apr",
+        description:
+            "TradMark offers innovative solutions to enhance user access to information. With features like Market Collection, chat functions, and categories, TradMark provides numerous benefits for users. In addition to user benefits, TradMark also significantly benefits merchants. Indirectly, the income of traditional market merchants will increase with the ease of information access.",
+        image:
+            "https://lh3.googleusercontent.com/drive-viewer/AKGpihbqvUnSmc32m5Fv0hOemVgmM5nVWu01sO-oOyiWoXQUpvn-gShjvZUqxMpj-B-eEMYivDxAEgATcn9lkveAxe40wc18BJk8Y-I=s1600-rw-v1",
+        tags: ["Figma", "Android Studio", "Kotlin", "Retrofit"],
+        category: "android app",
+        github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+        webapp: "/",
+        member: [
+            {
+                name: "Rizki Amelia",
+                img: "/",
+                linkedin: "/",
+                github: "/",
+            },
+            {
+                name: "Naufal Andresya K.",
+                img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfsIEDQ0sprnYgouMgN9isZm1MiqYiYVphk731i68YP2tsv4UK13dvGEOAxmCMa6xhmsVGdcFCxWd_SP-KkmAv8YHxFdOcaJQ=s1600-rw-v1",
                 linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-                github: "https://github.com/rishavchanda/",
+                github: "https://github.com/naufalnak",
+            },
+            {
+                name: "Andri Miftahul Akhyar",
+                img: "/",
+                linkedin: "/",
+                github: "/",
+            },
+            {
+                name: "Rahmad Anwar",
+                img: "/",
+                linkedin: "/",
+                github: "/",
+            },
+            {
+                name: "Ryan Rudmiansyah",
+                img: "/",
+                linkedin: "/",
+                github: "/",
+            },
+        ],
+    },
+    {
+        id: 4,
+        title: "MORE (Motor Mobil Repair)",
+        date: "19 Apr - Now",
+        description:
+            "Code Progress",
+        image:
+            "https://lh3.googleusercontent.com/drive-viewer/AKGpihZx_z-x1tg_9iZ6bzrLCEf-49HfIG5qRPS1p_DeXZK8Wvk8HjLb8vfHCMpLXoDzY0QUEnouHOUF7XKhCenG2n9sC3GKeP2tVdc=s1600-rw-v1",
+        tags: ["Figma", "Android Studio", "Kotlin", "Retrofit"],
+        category: "android app",
+        github: "https://github.com/naufalnak/more",
+        webapp: "https://www.figma.com/proto/zS40p5tibsAoTEihux5H4F/Design-Layout?page-id=1%3A4&node-id=427-1531&viewport=405%2C241%2C0.32&t=4PCvVwpjrvUiwIp4-1&scaling=min-zoom&starting-point-node-id=427%3A1503",
+        member: [
+            {
+                name: "Naufal Andresya K.",
+                img: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYfsIEDQ0sprnYgouMgN9isZm1MiqYiYVphk731i68YP2tsv4UK13dvGEOAxmCMa6xhmsVGdcFCxWd_SP-KkmAv8YHxFdOcaJQ=s1600-rw-v1",
+                linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+                github: "https://github.com/https://github.com/naufalnak/",
+            },
+            {
+                name: "Septian Rizky",
+                img: "/",
+                linkedin: "/",
+                github: "https://github.com/septian27",
+            },
+            {
+                name: "Carisca",
+                img: "/",
+                linkedin: "/",
+                github: "https://github.com/cariscarizky",
+            },
+            {
+                name: "Andri Miftahul Akhyar",
+                img: "/",
+                linkedin: "/",
+                github: "https://github.com/andrimiftahula",
             },
         ],
     },
